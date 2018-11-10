@@ -14,4 +14,4 @@ Frei programmierbare LED-Lampe, die z.B. für den Countdown bei Lightning Talks 
 * Kunststoff-Röhre 100 cm (Aussendirchmesser 40 mm, Innendurchmesser 35 mm)
 * Beilagscheiben (Aussendurchmesser 35 mm, Bohrung 13 mm) zur Fixierung des Vierkantholzes in der Röhre
 * FadeCandy USB-Controller für USB-Streifen (https://www.adafruit.com/product/1689)
-* USB-Kabel)
+* USB-Kabel
