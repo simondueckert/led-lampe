@@ -1,6 +1,8 @@
 # LED-Lampe
 Frei programmierbare LED-Lampe, die z.B. für den Countdown bei Lightning Talks verwendet werden kann.
 
+![LED-Lampe](https://pbs.twimg.com/media/Dro9xYtWoAAWNO7?format=jpg&name=large)
+
 # Software
 
 * [Fadecandy](https://github.com/scanlime/fadecandy) - Server, der mit dem USB-Controller kommuniziert
