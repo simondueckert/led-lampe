@@ -1,5 +1,9 @@
-# led-lampe
-Frei programmierbare LED-Lampe
+# LED-Lampe
+Frei programmierbare LED-Lampe.
+
+# Software
+
+* Fadecandy (https://github.com/scanlime/fadecandy)
 
 # Materialliste
 
