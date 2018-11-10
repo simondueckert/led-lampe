@@ -3,7 +3,8 @@ Frei programmierbare LED-Lampe, die z.B. für den Countdown bei Lightning Talks 
 
 # Software
 
-* [Fadecandy](https://github.com/scanlime/fadecandy)
+* [Fadecandy](https://github.com/scanlime/fadecandy) - Server, der mit dem USB-Controller kommuniziert
+* [Processing](https://processing.org) - Software zur Programmierung visueller Effekte
 
 # Materialliste
 
