@@ -7,7 +7,7 @@ Frei programmierbare LED-Lampe.
 
 # Materialliste
 
-* LED-Streifen W2812B (4x56 STÜCK)
+* LED-Streifen W2812B (4x56 STÜCK) (https://www.seeedstudio.com/document/pdf/WS2812B%20Datasheet.pdf)
 * LED-Trafo 5V, 12A
 * Vierkantholz 1x1x100 cm zur Montage der LED-Streifen
 * Kabelbinder zur zusätzlichen Fixierung der LED-Streifen auf dem Vierkantholz)
