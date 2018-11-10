@@ -1,5 +1,5 @@
 # LED-Lampe
-Frei programmierbare LED-Lampe.
+Frei programmierbare LED-Lampe, die z.B. für den Countdown bei Lightning Talks verwendet werden kann.
 
 # Software
 
